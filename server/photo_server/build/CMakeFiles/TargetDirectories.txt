@@ -1,0 +1,3 @@
+/home/loudamn/mlops/photo_server/build/CMakeFiles/cifar10_server.dir
+/home/loudamn/mlops/photo_server/build/CMakeFiles/edit_cache.dir
+/home/loudamn/mlops/photo_server/build/CMakeFiles/rebuild_cache.dir
