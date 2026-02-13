@@ -29,4 +29,4 @@ However, in practical engineering applications, a more holistic analysis is need
 
 The server is implemented in C++, with the main server program decoupled from the inference module. This design ensures that updating or replacing the inference model does not affect the normal operation of the main service.
 
-Unix Domain Sockets (UDS) are used to guarantee efficient local data transmission between processes. Additionally, the batch size is carefully tuned to maximize GPU utilization and overall performance.
+Unix Domain Sockets (UDS) are used to guarantee efficient local data transmission between processes. Additionally, the batch size is carefully tuned to maximize GPU utilization and overall performance [server](/server/photo_server/).
